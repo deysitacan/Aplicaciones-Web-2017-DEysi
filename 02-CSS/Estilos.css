@@ -1,0 +1,21 @@
+.boton-cuidado{
+    background-color: #ffb02c;
+    color: #e0eed5;
+
+}
+.boton-exito{
+
+    background-color: aqua;
+    color: #e0eed5;
+}
+button:hover{
+    border:solid;
+    border-color: red;
+    background-color: violet;
+    outline: -webkit-focus-ring-color auto 5px;
+
+}
+button:focus{
+    background-color: blue;
+
+}
