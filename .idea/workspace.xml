@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bbf0c0f-85fa-4247-a55c-6fe48a13760b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-BOOSTRAP/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JAVA/Variables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JAVA/for while/loops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JAVA/funciones/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JAVA/splice.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01-HTML/pagina1.html" afterPath="$PROJECT_DIR$/01-HTML/pagina1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-CSS/index.html" afterPath="$PROJECT_DIR$/02-CSS/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js" afterPath="$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-JAVA/Variables.js" afterPath="$PROJECT_DIR$/04-JAVA/Variables.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,8 +67,8 @@
       <file leaf-file-name="Variables.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-JAVA/Variables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+            <state relative-caret-position="446">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="72" selection-end-column="31" />
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -76,12 +76,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Comparadores.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="splice.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-JAVA/splice.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#44#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparadores.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="566">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#44#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-JAVA/for while/loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-JAVA/funciones/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+              <folding>
+                <element signature="n#!!doc;n#ImprimirHolaMundo#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,16 +127,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UsoAnimaciones.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-CSS/UsoAnimaciones.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,8 +160,11 @@
         <option value="$PROJECT_DIR$/02-CSS/index.html" />
         <option value="$PROJECT_DIR$/03-BOOSTRAP/boostrap.html" />
         <option value="$PROJECT_DIR$/03-BOOSTRAP/index.html" />
-        <option value="$PROJECT_DIR$/04-JAVA/Variables.js" />
         <option value="$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js" />
+        <option value="$PROJECT_DIR$/04-JAVA/for while/loops.js" />
+        <option value="$PROJECT_DIR$/04-JAVA/funciones/functions.js" />
+        <option value="$PROJECT_DIR$/04-JAVA/Variables.js" />
+        <option value="$PROJECT_DIR$/04-JAVA/splice.js" />
       </list>
     </option>
   </component>
@@ -340,16 +369,15 @@
       <workItem from="1494288633867" duration="4045000" />
       <workItem from="1494678040308" duration="3380000" />
       <workItem from="1494892724367" duration="4745000" />
-      <workItem from="1495498688603" duration="871000" />
+      <workItem from="1495498688603" duration="5588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13041000" />
+    <option name="totallyTimeSpent" value="17758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="790" y="360" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -357,7 +385,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -515,6 +543,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03-BOOSTRAP/boostrap.html" />
+    <entry file="file://$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JAVA/for while/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JAVA/funciones/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc;n#ImprimirHolaMundo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03-BOOSTRAP/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -525,19 +581,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04-JAVA/Variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        <state relative-caret-position="446">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="72" selection-end-column="31" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-JAVA/If else switch/Comparadores.js">
+    <entry file="file://$PROJECT_DIR$/04-JAVA/splice.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

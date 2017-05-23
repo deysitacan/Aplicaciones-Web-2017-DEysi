@@ -39,9 +39,35 @@ var objetoComplejo={
     mayorEdad:true,
     peso:70.2,
     altura:127,
+    saltar:function () {//funcioj sin nombre:anonimous fuction
+        console.log("saltar")
+    },
+    correr:function () {
+        console.log("correr")
+    },
+    sumar:function (a,b) {
+        return a+b;
+    }
 
+
+    imprimirNombre:function () {
+        return this.nombre+"" +this.apellido+"";
+    }
 
 };
 
 objetoComplejo.altura//127
+
 objetoComplejo.apellido//""
+objetoComplejo.nombre;
+objetoComplejo.nombre="Deysi";
+objetoComplejo.apellido="Miño";
+objetoComplejo.nombre;
+objetoComplejo.apellido;
+objetoComplejo.titulo="Ingeniero";
+
+var arregloStringq=["1","2"];
+arregloStringq.push("3");//aumenta valor al final de arreglo["1","2","3"];
+
+arregloStringq.pop();//["1","2"];
+arregloStringq.splice(2,0,'3');
