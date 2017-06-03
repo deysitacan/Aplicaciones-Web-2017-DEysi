@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bbf0c0f-85fa-4247-a55c-6fe48a13760b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TYPESCRIPT/TypeScript/clase.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TYPESCRIPT/TypeScript/variables.ts" afterPath="$PROJECT_DIR$/TYPESCRIPT/TypeScript/variables.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TYPESCRIPT/TypeScript/clase.ts" afterPath="$PROJECT_DIR$/TYPESCRIPT/TypeScript/clase.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -105,9 +104,11 @@
       <file leaf-file-name="clase.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TYPESCRIPT/TypeScript/clase.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc;n#usuarioClass#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -453,12 +454,12 @@
       <workItem from="1494892724367" duration="4745000" />
       <workItem from="1495498688603" duration="5611000" />
       <workItem from="1496104481485" duration="5052000" />
-      <workItem from="1496492992734" duration="2200000" />
+      <workItem from="1496492992734" duration="2897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25033000" />
+    <option name="totallyTimeSpent" value="25730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="790" y="360" width="1436" height="1000" extended-state="0" />
@@ -592,6 +593,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="125" lean-forward="false" selection-start-line="14" selection-start-column="125" selection-end-line="14" selection-end-column="125" />
+          <folding>
+            <marker date="1494893116000" expanded="true" signature="876:1010" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -683,6 +687,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="125" lean-forward="false" selection-start-line="14" selection-start-column="125" selection-end-line="14" selection-end-column="125" />
+          <folding>
+            <marker date="1494893116000" expanded="true" signature="876:1010" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,6 +748,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <marker date="1494893116000" expanded="true" signature="876:1010" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -777,6 +787,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="125" lean-forward="false" selection-start-line="14" selection-start-column="125" selection-end-line="14" selection-end-column="125" />
+          <folding>
+            <marker date="1494893116000" expanded="true" signature="876:1010" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -945,9 +958,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TYPESCRIPT/TypeScript/clase.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc;n#usuarioClass#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
