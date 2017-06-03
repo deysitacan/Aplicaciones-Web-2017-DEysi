@@ -3,16 +3,17 @@
  */
 class usuarioClass{
 
-    public nombre:string;//se puede omitir
+   /* public nombre:string;//se puede omitir
     private apellido:string;//se puede omitir
-
+*/
     constructor(
         public nombre:string,
         private apellido?:string){
 
-        this.nombre=nombre;
+      /*  this.nombre=nombre;
         this.apellido=apellido;
         //las variables vacias se ponen al final
+        */
     }
 
   ImprimirNombre(saludo:string,titulo?:string):string{
@@ -28,4 +29,4 @@ return `
           "Deysi",
           "Tacan");
 
-      console.log(Deysi.ImprimirNombre("Hi","Sr."));
+      console.log(Deysi.ImprimirNombre("Hi  ","Sr."));
