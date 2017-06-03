@@ -23,16 +23,24 @@ let arreglo=[
         id:3
     },
     {
-        nombre:"Alexandra",
-        apellido:"Floeeres",
+        nombre:"Jorge",
+        apellido:"Miño",
         nota:5,
-        id:3
+        id:4
     },
     {
-        nombre:"Alexandra",
-        apellido:"Floeeres",
-        nota:5,
-        id:3
+        nombre:"Jor",
+        apellido:"Fernando",
+        nota:2,
+        id:5
     },
 
 ];
+
+let res=arreglo.filter(
+    (valor,indice,arreglo)=>{
+
+        return valor.id>3;
+    }
+);
+console.log(res);

@@ -1,7 +1,7 @@
 /**
  * Created by deysitacan on 3/6/17.
  */
-
+//find.ts me equivoque
 let arreglo=[
     {
         nombre:"Deysi",
