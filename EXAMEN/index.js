@@ -4,6 +4,10 @@
 
 var express = require('express');
 var app = express();
+
+app.use(express.static('public'))
+
+
 app.get('/', function (req, res,next) {
     res.send('Hello World!Deysi');
     res.render('index')
@@ -27,7 +31,7 @@ app.get('/facultaddesistemas', function (req, res) {
 
 });
 
-app.use(express.static('public'))
+
 
 app.post('/cabeceras', function (req, res) {
 
