@@ -1,0 +1,21 @@
+{
+  "name": "aweb-examen-01-tacan-deysi",
+  "version": "1.0.0",
+  "description": "Examen de aplicaciones web",
+  "main": "index.js",
+  "scripts": {
+    "test": "Examen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deysiflores046@hotmail.com"
+  },
+  "keywords": [
+    "Examen"
+  ],
+  "author": "Deysi Tacan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
