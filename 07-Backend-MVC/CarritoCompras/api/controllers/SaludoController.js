@@ -1,11 +1,29 @@
 /**
- * SaludoController
- *
- * @description :: Server-side logic for managing Saludoes
- * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
+ * Created by deysitacan on 19/6/17.
  */
-
 module.exports = {
-	
+    Welcome: function (req, res) {
+        //return response.json({ saludo: "hola" });
+        //POST
+        //validar que solo se reciba el mensaje
+        sails.log.info(req.method);
+        if (req.method == "POST") {
+            return res.json({ saludo: "hola" });
+        }
+        else {
+            res.send("Error");
+        }
+        //req.method
+    },
+    Bienvenido: function (req, res) {
+        sails.log.info(req.method);
+        //PUT
+        if (req.method == "PUT") {
+            return res.send("Hola");
+        }
+        else {
+            res.send("Error");
+        }
+        //return response.send("Hola");
+    }
 };
-
