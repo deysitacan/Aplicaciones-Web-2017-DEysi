@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bbf0c0f-85fa-4247-a55c-6fe48a13760b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EXAMEN/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/EXAMEN/public/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Backend-MVC/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EXAMEN/index.js" afterPath="$PROJECT_DIR$/EXAMEN/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EXAMEN/public/estilos.css" afterPath="$PROJECT_DIR$/EXAMEN/public/estilos.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EXAMEN/public/index.html" afterPath="$PROJECT_DIR$/EXAMEN/public/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/EXAMEN/public/estilos.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -90,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/EXAMEN/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2070">
-              <caret line="138" column="107" lean-forward="true" selection-start-line="138" selection-start-column="107" selection-end-line="138" selection-end-column="107" />
+              <caret line="138" column="107" lean-forward="false" selection-start-line="138" selection-start-column="107" selection-end-line="138" selection-end-column="107" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -100,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EXAMEN/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-Backend-MVC/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -185,6 +179,7 @@
         <option value="$PROJECT_DIR$/EXAMEN/public/estilos.css" />
         <option value="$PROJECT_DIR$/EXAMEN/public/index.html" />
         <option value="$PROJECT_DIR$/EXAMEN/index.js" />
+        <option value="$PROJECT_DIR$/07-Backend-MVC/README.md" />
       </list>
     </option>
   </component>
@@ -225,8 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,7 +274,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03-BOOSTRAP" />
+              <option name="myItemId" value="07-Backend-MVC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,7 +288,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02-CSS" />
+              <option name="myItemId" value="07-Backend-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarritoCompras" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -309,12 +306,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01-HTML" />
+              <option name="myItemId" value="07-Backend-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarritoCompras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Aplicaciones-Web-2017-DEysi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Aplicaciones-Web-2017-DEysi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-Backend-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarritoCompras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -446,23 +479,25 @@
       <workItem from="1497632359447" duration="1738000" />
       <workItem from="1497634225542" duration="1527000" />
       <workItem from="1497636170728" duration="1865000" />
-      <workItem from="1497638146095" duration="296000" />
+      <workItem from="1497638146095" duration="1218000" />
+      <workItem from="1497917463682" duration="788000" />
+      <workItem from="1497919178101" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47885000" />
+    <option name="totallyTimeSpent" value="50548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1094" y="234" width="1436" height="996" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24373259" sideWeight="0.49315068" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24373259" sideWeight="0.49315068" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27831715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49838188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24373259" sideWeight="0.5068493" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -497,13 +532,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-CSS/UsoAnimaciones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-BOOSTRAP/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1095">
@@ -804,7 +832,7 @@
     <entry file="file://$PROJECT_DIR$/EXAMEN/public/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -812,7 +840,7 @@
     <entry file="file://$PROJECT_DIR$/EXAMEN/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2070">
-          <caret line="138" column="107" lean-forward="true" selection-start-line="138" selection-start-column="107" selection-end-line="138" selection-end-column="107" />
+          <caret line="138" column="107" lean-forward="false" selection-start-line="138" selection-start-column="107" selection-end-line="138" selection-end-column="107" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -834,8 +862,16 @@
     <entry file="file://$PROJECT_DIR$/EXAMEN/npm-debug.log" />
     <entry file="file://$PROJECT_DIR$/EXAMEN/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-Backend-MVC/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding />
         </state>
       </provider>
