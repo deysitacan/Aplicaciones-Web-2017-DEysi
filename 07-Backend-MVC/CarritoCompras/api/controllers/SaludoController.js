@@ -25,5 +25,28 @@ module.exports = {
             res.send("Error");
         }
         //return response.send("Hola");
+    },
+    // / Correr:  http://localhost:1337/Saludo/CrearUsuarioQuemado
+    CrearUsuarioQuemado: function (req, res) {
+        var parametros = req.allParams();
+        var nuevoUsuario = {
+            nombre: parametros.nombre,
+            apellidos: parametros.apellidos,
+            password: parametros.password,
+            correo: parametros.correo,
+            fechaNacimiento: parametros.fechaNacimiento
+        };
+        // /Saludo
+        //  Nombremodelo.metodo(parametros).exec((err,registro))=>{})
+        Usuario.create(nuevoUsuario)
+            .exec(function (error, usuarioCreado) {
+            if (error) {
+                return res.serverError(error);
+            }
+            else {
+                return res.ok(usuarioCreado);
+            }
+        });
     }
+    //crear http://localhost:1337/Saludo/CrearUsuarioQuemado?nombre=Deysi&apellidos=Flores
 };

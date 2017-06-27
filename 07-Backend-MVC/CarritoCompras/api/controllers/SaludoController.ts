@@ -5,6 +5,7 @@
 declare var exports;
 declare var module;
 declare var sails;
+declare var Usuario;
 module.exports = {
   Welcome: function (req, res) {
     //return response.json({ saludo: "hola" });
@@ -44,7 +45,53 @@ module.exports = {
 
 
     //return response.send("Hola");
+  },
+  // / Correr:  http://localhost:1337/Saludo/CrearUsuarioQuemado
+  CrearUsuarioQuemado:(req,res)=>{
+let parametros=req.allParams();
+    let nuevoUsuario={
+      nombre:parametros.nombre,
+      apellidos:parametros.apellidos,
+      password:parametros.password,
+      correo:parametros.correo,
+      fechaNacimiento:parametros.fechaNacimiento
+
+
+
+
+    }
+    // /Saludo
+
+    //  Nombremodelo.metodo(parametros).exec((err,registro))=>{})
+    Usuario.create(nuevoUsuario)
+      .exec(
+        (error,usuarioCreado)=>{
+      if(error){
+
+        return res.serverError(error);
+      }else{
+
+        return res.ok(usuarioCreado);
+      }
+
+
+      })
+
+
+
   }
+  //crear http://localhost:1337/Saludo/CrearUsuarioQuemado?nombre=Deysi&apellidos=Flores
+
+
+
+
+
+
+
+
+
+
+
 
 
 
