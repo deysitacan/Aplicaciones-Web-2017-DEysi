@@ -1,0 +1,24 @@
+
+.card{
+
+    height: 300px;
+}
+.card-title{
+    color: #ff8b0c;
+}
+.card-text{
+
+
+    color: #d2a4bf;
+    text-align : justify;
+
+}
+.p {
+    text-align : justify;
+}
+
+.card-title-1{
+
+    color: #60b6ff;
+
+}
