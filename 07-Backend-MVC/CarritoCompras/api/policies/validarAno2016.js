@@ -8,8 +8,18 @@
  *
  */
 module.exports = function(req, res, next) {
+  var anio=new Date().getFullYear();
+  if(anio==2016){
 
-  // User is allowed, proceed to the next policy, 
+
+    return next()//tiene permiso
+
+  }else{
+    return res.forbidden()//redirigir al error 403
+
+  }
+/*
+  // User is allowed, proceed to the next policy,
   // or if this is the last policy, the controller
   if (req.session.authenticated) {
     return next();
@@ -18,4 +28,5 @@ module.exports = function(req, res, next) {
   // User is not allowed
   // (default res.forbidden() behavior can be overridden in `config/403.js`)
   return res.forbidden('You are not permitted to perform this action.');
+  */
 };

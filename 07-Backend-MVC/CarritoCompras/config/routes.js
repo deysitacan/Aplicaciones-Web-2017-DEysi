@@ -34,7 +34,17 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
-  }
+
+
+  },
+
+  '/perfil':{
+    view:'Usuariogestion/perfil'
+
+  },
+
+  'get /Contenidooculto':
+  'VistaController.vistaOculta',
 
   /***************************************************************************
   *                                                                          *

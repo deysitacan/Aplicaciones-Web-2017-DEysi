@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%=typeof title == 'undefined' ? 'New Sails App' : title%></title>
+    <title><%=typeof title == 'undefined' ? 'New Sails App' : title%></title> <!--Permite hacer una comparacion Izquierda la condicion del signo de interrogacion,
+    depues de los dos puntos cuando no cumple-->
 
     <!-- Viewport mobile tag for sensible mobile support -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -30,12 +31,24 @@
 
     <!--STYLES-->
     <link rel="stylesheet" href="/styles/importer.css">
+    <link rel="stylesheet" href="/styles/MisEstilos.css">
+    <link rel="stylesheet" href="/Boostrap/css/bootstrap.css">
     <!--STYLES END-->
   </head>
 
   <body>
-    <%- body %>
 
+  <h1>H1 antes del body</h1>
+
+  <h2>despues del bodi</h2>
+  <%- partial('header.ejs') %>
+
+
+  <div class="container">
+
+    <%- body %>
+  </div>
+  <%- partial('fooder.ejs') %>
 
 
     <!--
@@ -89,6 +102,11 @@
 
     <!--SCRIPTS-->
     <script src="/js/dependencies/sails.io.js"></script>
+    <script src="/Boostrap/js/bootstrap.js"></script>
     <!--SCRIPTS END-->
+
+  <li class="nav-item">
+    <a class="nav-link" href="/">Link</a>
+  </li>
   </body>
 </html>

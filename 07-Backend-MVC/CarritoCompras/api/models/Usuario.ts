@@ -2,7 +2,7 @@
  * Created by deysitacan on 26/6/17.
  */
 
-
+/**
 declare var module:any;
 module.exports={
 
@@ -26,3 +26,4 @@ module.exports={
 
   }
 };
+*/
